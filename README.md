@@ -1,4 +1,7 @@
 ---
+page_type: sample
+languages: java
+products: azure
 services: Sql
 platforms: java
 author: yaohaizh
