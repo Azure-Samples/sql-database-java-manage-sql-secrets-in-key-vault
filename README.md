@@ -4,12 +4,12 @@ languages:
 - java
 products:
 - azure
-services: Sql
-platforms: java
-author: yaohaizh
+extensions:
+- services: Sql
+- platforms: java
 ---
 
-## Getting Started with Sql - Manage Sql Server Keys With Azure Key Vault Key - in Java ##
+# Getting Started with Sql - Manage Sql Server Keys With Azure Key Vault Key - in Java #
 
 
   Azure SQL sample for managing SQL secrets (Server Keys) using Azure Key Vault -
