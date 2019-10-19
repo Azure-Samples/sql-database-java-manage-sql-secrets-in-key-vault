@@ -4,6 +4,7 @@ languages:
 - java
 products:
 - azure
+- azure-key-vault
 description: "Azure SQL sample for managing SQL secrets (Server Keys) using Azure Key Vault."
 urlFragment: sql-database-java-manage-sql-secrets-in-key-vault
 ---
