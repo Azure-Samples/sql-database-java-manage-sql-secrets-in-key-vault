@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Sql
-- platforms: java
+  services: Sql
+  platforms: java
 ---
 
 # Getting Started with Sql - Manage Sql Server Keys With Azure Key Vault Key - in Java #
